@@ -4,6 +4,7 @@
 
 ## 东方星莲船（th12）
 
+- 演示视频：[哔哩哔哩 BV1BN8P6nEmB](https://www.bilibili.com/video/BV1BN8P6nEmB/)
 - 最终发行版：[`th12-coop-lan-v1.0.0/`](th12/release/th12-coop-lan-v1.0.0/)
 - 压缩包：[`th12-coop-lan-v1.0.0.zip`](th12/release/th12-coop-lan-v1.0.0.zip)
 - 压缩包校验：[`th12-coop-lan-v1.0.0.zip.sha256.txt`](th12/release/th12-coop-lan-v1.0.0.zip.sha256.txt)
