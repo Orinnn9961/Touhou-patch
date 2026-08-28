@@ -1,0 +1,3 @@
+LIBRARY th12_coop
+EXPORTS
+    Th12CoopInitialize=_Th12CoopInitialize@0

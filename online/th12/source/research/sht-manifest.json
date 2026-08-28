@@ -1,0 +1,137 @@
+{
+  "schema": 1,
+  "airframes": [
+  {
+    "file": "pl00a.sht",
+    "size": 3856,
+    "format_version": 3,
+    "shot_set_count": 10,
+    "header_raw": {"offset_04": 2.0000000, "offset_08": 6.0000000, "offset_0c": 28.0000000},
+    "movement": {"normal": 4.5000000, "focused": 2.0000000, "normal_diagonal": 3.1819806, "focused_diagonal": 1.4142135},
+    "max_power_levels": 4,
+    "power_step": 40,
+    "shot_sets": [
+      {"index": 0, "offset": 696, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 1, "offset": 804, "auxiliary": 999, "records": 4, "callback_indices": [0]},
+      {"index": 2, "offset": 1016, "auxiliary": 999, "records": 6, "callback_indices": [0]},
+      {"index": 3, "offset": 1332, "auxiliary": 999, "records": 8, "callback_indices": [0]},
+      {"index": 4, "offset": 1752, "auxiliary": 999, "records": 10, "callback_indices": [0]},
+      {"index": 5, "offset": 2276, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 6, "offset": 2384, "auxiliary": 999, "records": 4, "callback_indices": [0]},
+      {"index": 7, "offset": 2596, "auxiliary": 999, "records": 6, "callback_indices": [0]},
+      {"index": 8, "offset": 2912, "auxiliary": 999, "records": 8, "callback_indices": [0]},
+      {"index": 9, "offset": 3332, "auxiliary": 999, "records": 10, "callback_indices": [0]}
+    ]
+  },
+  {
+    "file": "pl00b.sht",
+    "size": 2816,
+    "format_version": 3,
+    "shot_set_count": 10,
+    "header_raw": {"offset_04": 2.0000000, "offset_08": 10.0000000, "offset_0c": 28.0000000},
+    "movement": {"normal": 4.5000000, "focused": 2.0000000, "normal_diagonal": 3.1819806, "focused_diagonal": 1.4142135},
+    "max_power_levels": 4,
+    "power_step": 40,
+    "shot_sets": [
+      {"index": 0, "offset": 696, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 1, "offset": 804, "auxiliary": 999, "records": 3, "callback_indices": [0, 1]},
+      {"index": 2, "offset": 964, "auxiliary": 999, "records": 4, "callback_indices": [0, 1]},
+      {"index": 3, "offset": 1176, "auxiliary": 999, "records": 5, "callback_indices": [0, 1]},
+      {"index": 4, "offset": 1440, "auxiliary": 999, "records": 6, "callback_indices": [0, 1]},
+      {"index": 5, "offset": 1756, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 6, "offset": 1864, "auxiliary": 999, "records": 3, "callback_indices": [0, 1]},
+      {"index": 7, "offset": 2024, "auxiliary": 999, "records": 4, "callback_indices": [0, 1]},
+      {"index": 8, "offset": 2236, "auxiliary": 999, "records": 5, "callback_indices": [0, 1]},
+      {"index": 9, "offset": 2500, "auxiliary": 999, "records": 6, "callback_indices": [0, 1]}
+    ]
+  },
+  {
+    "file": "pl01a.sht",
+    "size": 2816,
+    "format_version": 3,
+    "shot_set_count": 10,
+    "header_raw": {"offset_04": 2.7000000, "offset_08": 12.0000000, "offset_0c": 32.0000000},
+    "movement": {"normal": 5.0000000, "focused": 2.0000000, "normal_diagonal": 3.5355339, "focused_diagonal": 1.4142135},
+    "max_power_levels": 4,
+    "power_step": 40,
+    "shot_sets": [
+      {"index": 0, "offset": 696, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 1, "offset": 804, "auxiliary": 999, "records": 3, "callback_indices": [0, 2]},
+      {"index": 2, "offset": 964, "auxiliary": 999, "records": 4, "callback_indices": [0, 2]},
+      {"index": 3, "offset": 1176, "auxiliary": 999, "records": 5, "callback_indices": [0, 2]},
+      {"index": 4, "offset": 1440, "auxiliary": 999, "records": 6, "callback_indices": [0, 2]},
+      {"index": 5, "offset": 1756, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 6, "offset": 1864, "auxiliary": 999, "records": 3, "callback_indices": [0, 2]},
+      {"index": 7, "offset": 2024, "auxiliary": 999, "records": 4, "callback_indices": [0, 2]},
+      {"index": 8, "offset": 2236, "auxiliary": 999, "records": 5, "callback_indices": [0, 2]},
+      {"index": 9, "offset": 2500, "auxiliary": 999, "records": 6, "callback_indices": [0, 2]}
+    ]
+  },
+  {
+    "file": "pl01b.sht",
+    "size": 4272,
+    "format_version": 3,
+    "shot_set_count": 10,
+    "header_raw": {"offset_04": 2.7000000, "offset_08": 12.0000000, "offset_0c": 32.0000000},
+    "movement": {"normal": 5.0000000, "focused": 2.0000000, "normal_diagonal": 3.5355339, "focused_diagonal": 1.4142135},
+    "max_power_levels": 4,
+    "power_step": 40,
+    "shot_sets": [
+      {"index": 0, "offset": 696, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 1, "offset": 804, "auxiliary": 999, "records": 4, "callback_indices": [0]},
+      {"index": 2, "offset": 1016, "auxiliary": 999, "records": 6, "callback_indices": [0]},
+      {"index": 3, "offset": 1332, "auxiliary": 999, "records": 12, "callback_indices": [0]},
+      {"index": 4, "offset": 1960, "auxiliary": 999, "records": 14, "callback_indices": [0]},
+      {"index": 5, "offset": 2692, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 6, "offset": 2800, "auxiliary": 999, "records": 4, "callback_indices": [0]},
+      {"index": 7, "offset": 3012, "auxiliary": 999, "records": 6, "callback_indices": [0]},
+      {"index": 8, "offset": 3328, "auxiliary": 999, "records": 8, "callback_indices": [0]},
+      {"index": 9, "offset": 3748, "auxiliary": 999, "records": 10, "callback_indices": [0]}
+    ]
+  },
+  {
+    "file": "pl02a.sht",
+    "size": 3856,
+    "format_version": 3,
+    "shot_set_count": 10,
+    "header_raw": {"offset_04": 2.4000001, "offset_08": 6.0000000, "offset_0c": 28.0000000},
+    "movement": {"normal": 4.5000000, "focused": 2.0000000, "normal_diagonal": 3.1819806, "focused_diagonal": 1.4142135},
+    "max_power_levels": 4,
+    "power_step": 40,
+    "shot_sets": [
+      {"index": 0, "offset": 696, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 1, "offset": 804, "auxiliary": 999, "records": 4, "callback_indices": [0, 3]},
+      {"index": 2, "offset": 1016, "auxiliary": 999, "records": 6, "callback_indices": [0, 3]},
+      {"index": 3, "offset": 1332, "auxiliary": 999, "records": 8, "callback_indices": [0, 3]},
+      {"index": 4, "offset": 1752, "auxiliary": 999, "records": 10, "callback_indices": [0, 3]},
+      {"index": 5, "offset": 2276, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 6, "offset": 2384, "auxiliary": 999, "records": 4, "callback_indices": [0, 3]},
+      {"index": 7, "offset": 2596, "auxiliary": 999, "records": 6, "callback_indices": [0, 3]},
+      {"index": 8, "offset": 2912, "auxiliary": 999, "records": 8, "callback_indices": [0, 3]},
+      {"index": 9, "offset": 3332, "auxiliary": 999, "records": 10, "callback_indices": [0, 3]}
+    ]
+  },
+  {
+    "file": "pl02b.sht",
+    "size": 3128,
+    "format_version": 3,
+    "shot_set_count": 10,
+    "header_raw": {"offset_04": 2.4000001, "offset_08": 6.0000000, "offset_0c": 28.0000000},
+    "movement": {"normal": 4.5000000, "focused": 2.0000000, "normal_diagonal": 3.1819806, "focused_diagonal": 1.4142135},
+    "max_power_levels": 4,
+    "power_step": 40,
+    "shot_sets": [
+      {"index": 0, "offset": 696, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 1, "offset": 804, "auxiliary": 999, "records": 4, "callback_indices": [0, 1]},
+      {"index": 2, "offset": 1016, "auxiliary": 999, "records": 6, "callback_indices": [0, 1]},
+      {"index": 3, "offset": 1332, "auxiliary": 999, "records": 6, "callback_indices": [0, 1]},
+      {"index": 4, "offset": 1648, "auxiliary": 999, "records": 6, "callback_indices": [0, 1]},
+      {"index": 5, "offset": 1964, "auxiliary": 8, "records": 2, "callback_indices": [0]},
+      {"index": 6, "offset": 2072, "auxiliary": 999, "records": 3, "callback_indices": [0, 1]},
+      {"index": 7, "offset": 2232, "auxiliary": 999, "records": 4, "callback_indices": [0, 1]},
+      {"index": 8, "offset": 2444, "auxiliary": 999, "records": 5, "callback_indices": [0, 1]},
+      {"index": 9, "offset": 2708, "auxiliary": 999, "records": 8, "callback_indices": [0, 1]}
+    ]
+  }
+  ]
+}
