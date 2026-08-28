@@ -201,7 +201,7 @@ phase14 room start barrier released
 coop-launcher.exe
 dinput8.dll
 th12_coop.dll
-TH12-Coop-User-Guide-zh.md
+README.md
 coop/config.ini
 ```
 
